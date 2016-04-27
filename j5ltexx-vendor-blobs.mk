@@ -22,7 +22,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5ltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/j5ltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j5ltexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/j5ltexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
-    vendor/samsung/j5ltexx/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
-    vendor/samsung/j5ltexx/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
-    
+    vendor/samsung/j5ltexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so 
