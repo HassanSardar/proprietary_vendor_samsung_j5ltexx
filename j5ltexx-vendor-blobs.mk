@@ -23,3 +23,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5ltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j5ltexx/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/j5ltexx/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so 
+
