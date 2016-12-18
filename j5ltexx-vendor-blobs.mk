@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/j5ltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/j5ltexx/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/samsung/j5ltexx/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/j5ltexx/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/j5ltexx/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/j5ltexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
